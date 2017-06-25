@@ -1,6 +1,8 @@
 # Islands
 
-> Code from working through Functional Web Development with Elixir, OTP, and Phoenix
+> Web Application for Islands, a variation on battleship
+
+Repository contains code from working through [Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix) by Pragmatic Programmers.
 
 ## Initial Setup
 
